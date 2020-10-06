@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PongWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ Table\ here.\n\ \n\ @Qrashi\ \n\ @1.1\n
+comment1.params=
+comment1.target=PongWorld()
+comment2.params=
+comment2.target=int\ getMoveSpeed()
+comment3.params=limit
+comment3.target=int\ getRandomIntNoZero(int)
+comment4.params=
+comment4.target=void\ drawScores()
+comment4.text=\n\ This\ function\ updates\ both\ images\n\ of\ the\ scores\ (player\ &\ computer)\n
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ reset()
+numComments=7

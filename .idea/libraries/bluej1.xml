@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="bluej1">
+    <CLASSES>
+      <root url="jar:///opt/greenfoot/bluej.jar!/" />
+      <root url="jar:///opt/greenfoot/bluejcore.jar!/" />
+      <root url="jar:///opt/greenfoot/bluejeditor.jar!/" />
+      <root url="jar:///opt/greenfoot/bluejext.jar!/" />
+      <root url="jar:///opt/greenfoot/classgraph-4.2.6.jar!/" />
+      <root url="jar:///opt/greenfoot/commons-logging-api-1.1.2.jar!/" />
+      <root url="jar:///opt/greenfoot/diffutils-1.2.1.jar!/" />
+      <root url="jar:///opt/greenfoot/guava-17.0.jar!/" />
+      <root url="jar:///opt/greenfoot/hamcrest-core-1.3.jar!/" />
+      <root url="jar:///opt/greenfoot/httpclient-4.1.1.jar!/" />
+      <root url="jar:///opt/greenfoot/httpcore-4.1.jar!/" />
+      <root url="jar:///opt/greenfoot/httpmime-4.1.1.jar!/" />
+      <root url="jar:///opt/greenfoot/jl1.0.1.jar!/" />
+      <root url="jar:///opt/greenfoot/junit-4.11.jar!/" />
+      <root url="jar:///opt/greenfoot/lang-stride.jar!/" />
+      <root url="jar:///opt/greenfoot/nsmenufx-2.1.4.jar!/" />
+      <root url="jar:///opt/greenfoot/opencsv-2.3.jar!/" />
+      <root url="jar:///opt/greenfoot/richtextfx-fat-0.9.0.jar!/" />
+      <root url="jar:///opt/greenfoot/xom-1.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
